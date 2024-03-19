@@ -45,3 +45,6 @@ He's a cool dude determining whether we can submit our app onto the marketplace!
 
 # What is the slack review process?
 It's an process for submitting our app onto the marketplace!
+
+# When did we move to using Slack deep links?
+Right around the second week of March in 2024!
